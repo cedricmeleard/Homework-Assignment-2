@@ -1,0 +1,15 @@
+{
+  "name": "homework-2",
+  "version": "1.0.0",
+  "description": "Homework 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch",
+    "start": "node app/index.js"
+  },
+  "author": "Cédric Méléard",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
